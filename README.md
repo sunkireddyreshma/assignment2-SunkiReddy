@@ -8,6 +8,6 @@ markdown repo
 
  # Travelling Spot
 
- 1.Reaching to kansas airport from maryville.
- 2.Kansas to our city Hyderabad through flight.
- 3.After landing book a cab to charminar and  at the west lies the Laad Bazaar, and to the southwest lies the richly ornamented granite Makkah Masjid.
+ 1. Reaching to kansas airport from maryville.
+ 2. Kansas to our city Hyderabad through flight.
+ 3. After landing book a cab to charminar and  at the west lies the Laad Bazaar, and to the southwest lies the richly ornamented granite Makkah Masjid.
