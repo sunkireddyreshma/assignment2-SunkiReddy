@@ -27,5 +27,10 @@ markdown repo
 | icecrean | creamstone | 200 |
 | samosa| bakery | 50 |
 
+---
+
+# Quotation
+> Unity is strength .when there is teamwork and collaboration, wonderful things can be achieved - ***Mattie Stepanek***
+> You only live once, but if you do it right, once is enough. - ***Mae West***
 
 [Click Here to know More about Me](https://github.com/sunkireddyreshma/assignment2-SunkiReddy/blob/main/AboutMe.md)
