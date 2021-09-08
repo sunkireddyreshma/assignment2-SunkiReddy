@@ -16,6 +16,16 @@ markdown repo
  * The mosque is located on the top floor, and visitors can enjoy a short climb of the 149 steps to get there.
  * Charminar is at its best when it lights up at night in the lively neighborhood of colorful bazaar and shops
 
+---
+
+# Creating Table
+
+| Food/Drink | Location | Amount |
+| --- | --- | ---: |
+| birayani | tankbund| 500 |
+| pizza | pizzahut| 350|
+| icecrean | creamstone | 200 |
+| samosa| bakery | 50 |
 
 
 [Click Here to know More about Me](https://github.com/sunkireddyreshma/assignment2-SunkiReddy/blob/main/AboutMe.md)
