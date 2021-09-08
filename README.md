@@ -14,7 +14,7 @@ markdown repo
 
  * It is flanked by four minarets on every corner which are 48.7 meters high.
  * The mosque is located on the top floor, and visitors can enjoy a short climb of the 149 steps to get there.
- * Charminar is at its best when it lights up at night in the lively neighborhood of colorful bazaar and shops.
+ * Charminar is at its best when it lights up at night in the lively neighborhood of colorful bazaar and shops
 
 
 
